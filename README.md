@@ -1,1 +1,1 @@
-# php_db
+# Ejemplos y ejercicios de PHP
