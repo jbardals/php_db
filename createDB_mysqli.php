@@ -13,7 +13,7 @@ if (!$conn) {
 else{print ("<p>me conecto</p>");}
 
 // Create database
-$sql = "CREATE DATABASE myDB";
+$sql = "CREATE DATABASE iaw";
 if (mysqli_query($conn, $sql)) {
     print ("<p>Database created successfully</p>");
   echo "Database created successfully";
