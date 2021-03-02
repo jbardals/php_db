@@ -1,0 +1,6 @@
+
+Se transfieren 4 desde a para b
+Se transfieren -1 desde dd para dd
+Se transfieren 0 desde  para 
+Se transfieren 1 desde aaa para bbbb
+NO se ha transferido 10000 desde aaaaa para bbbbb porque el token no coincide!
